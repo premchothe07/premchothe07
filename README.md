@@ -1,9 +1,15 @@
 # 💫 About Me:
-- 🔭 I'm currently working on: An Al Factory designed to generate Al models.
-- 👯 I'm looking to collaborate on: Partnerships with Investors and VCs.
-- 🤔 I'm looking for help with: Building a team of expert AI/ML Engineers.
-- 🌱 I'm currently learning: Core concepts of Electrical Engineering.<br><br>Fun -
--  ⚡ fact: My philosophy is simple: "Always be the First or be the Best."
+
+🔭 an AI Factory & Reusable Rocket Booster (Mega Project)
+
+👯 Investors & Funding opportunities for my startups
+
+🤝 connecting with skilled AI & ML Engineers
+
+🌱 Electrical Engineering (Ex-Intern: Haier Appliances, Pune - 12 Weeks)
+
+⚡ "Always be the First or be the Best" — Prem Chothe
+
 
 
 ## 🌐 Socials:
